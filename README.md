@@ -20,6 +20,10 @@ python3 main.py
 
 *** DO NOT GET RID OF THE ```ready.sh``` THAT IS NEEDED TO UPDATE THE SCRIPT ***
 
+### Configuration:
+
+You need to read the EULA and the other thing. IF YOU WANT TO USE THE CHATGPT STUFF. PUT YOUR API KEY IN THE CONFIG WHERE IT SAYS IT SHOULD BE.
+
 ### Usage:
 
 This script can do many things here a list:
