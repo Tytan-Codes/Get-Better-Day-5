@@ -1,4 +1,4 @@
-# Better Day 5 ko-fi
+# Better Day 5 
 
 ### How to install:
 
