@@ -1,4 +1,8 @@
-# Better Day 5 
+# Get Better Day 5 
+
+### Important Notice: This project has reached its end of life (EOL) and is no longer maintained.
+
+Thank you for your interest in Get Better Day 5. Please note that this project has reached its EOL and is no longer actively maintained or supported. We recommend that you consider alternative solutions for your needs.
 
 ### How to install:
 
